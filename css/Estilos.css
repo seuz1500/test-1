@@ -1,3 +1,14 @@
 body {
-    background: blue;
+    background: rgb(57, 111, 211);
+    color: white;
 }
+
+h1 {
+    text-transform: uppercase;
+    text-shadow: 5px 3px 3px darkviolet;
+    height: 30px;
+    border: 5px double yellowgreen;
+    padding: 5px 4px 4px 5px;
+
+}
+    
